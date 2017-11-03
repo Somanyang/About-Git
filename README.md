@@ -1,5 +1,4 @@
 # About-Git
-git
 ## 1、git 切换远程分支
 #### a、从远程仓库git clone 到本地，进入目录master
 #### b、git branch -a 查看远程仓库的分支
